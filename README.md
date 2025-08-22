@@ -14,7 +14,7 @@ If no Zendesk ticket exists for that row, Make.com automatically creates one in 
 
 This prevents duplicates and ensures Airtable and Zendesk stay in sync.
 
-⚙️ Flow Overview
+**⚙️ Flow Overview**
 
 Trigger → Airtable “Watch Records”
 
