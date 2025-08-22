@@ -4,7 +4,13 @@ This project automates the creation of Zendesk tickets directly from Airtable us
 <img width="914" height="392" alt="image" src="https://github.com/user-attachments/assets/6f1cc71b-c0e8-4f6d-8a7e-63301d503313" />
 
 
+
 **🔧 Use Case**
+
+<img width="930" height="234" alt="image" src="https://github.com/user-attachments/assets/48f12344-f747-4f6b-bb85-a7e271826994" />
+
+<img width="895" height="238" alt="image" src="https://github.com/user-attachments/assets/99f6caba-35e6-43d6-82f4-d1b90f07d02d" />
+
 
 Teams log issues or requests in Airtable.
 
